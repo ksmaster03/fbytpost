@@ -34,7 +34,9 @@ for (const r of todo) {
   const iso = new Date(when).toISOString().replace(/\.\d+Z$/, "Z");
   const title = (p.image_headline_th + " | ใช้ Claude ทำงาน #Shorts").slice(0, 95);
   const descFile = `${DIR}/clips/vo/_ytdesc_${r.id}.txt`;
-  writeFileSync(descFile, p.caption);
+  // YouTube ไม่รับ < > ในคำอธิบาย + จำกัดความยาว -> sanitize
+  const desc = p.caption.replace(/[<>]/g, "").slice(0, 4900);
+  writeFileSync(descFile, desc);
   try {
     const out = execSync(`"${PY}" "${YT}/upload_yt.py" "${DIR}/clips/out/${r.id}.mp4" ${JSON.stringify(title)} "${descFile}" private "${iso}"`, { shell: BASH, stdio: ["ignore", "pipe", "pipe"] }).toString();
     const m = out.match(/video_id:\s*(\S+)/);
