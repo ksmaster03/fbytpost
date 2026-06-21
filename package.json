@@ -1,0 +1,19 @@
+{
+  "name": "fbytpost",
+  "version": "1.0.0",
+  "description": "FB + YouTube auto-posting toolkit — a research-to-publish content pipeline: Graph API scheduling, edge-tts + ffmpeg vertical Reels, Cloudflare/ChatGPT cover images, and YouTube Shorts upload.",
+  "type": "module",
+  "license": "MIT",
+  "author": "ksmaster03",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "post:now": "node facebook/post_now.mjs",
+    "schedule": "node facebook/schedule_spread.mjs",
+    "broadcast": "node facebook/messenger_broadcast.mjs",
+    "mint-token": "node facebook/mint_page_token.mjs",
+    "images": "node content/gen_cf.mjs",
+    "clips": "node content/batch_clips_loop.mjs",
+    "youtube": "node youtube/yt_batch.mjs"
+  },
+  "keywords": ["facebook", "graph-api", "youtube-shorts", "reels", "automation", "edge-tts", "ffmpeg", "content-pipeline", "social-media"]
+}

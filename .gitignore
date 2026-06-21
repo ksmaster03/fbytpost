@@ -1,0 +1,30 @@
+# deps
+node_modules/
+
+# 🔒 secrets — NEVER commit
+.env
+*.env
+!.env.example
+token.json
+client_secret*.json
+*.token
+chatgpt-data/
+profile/
+
+# generated media & state (machine/run-specific)
+images/
+clips/
+store/
+*.mp4
+*.mp3
+*.srt
+*.ass
+*.png
+!assets/*.png
+manifest.json
+clips_vo.json
+*_state.json
+
+# python
+__pycache__/
+*.pyc

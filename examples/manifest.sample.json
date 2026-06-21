@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c01p01",
+    "category": "เทคนิค prompt",
+    "image_headline_th": "บอกให้ชัด ได้ผลลัพธ์ตรงใจ",
+    "image_prompt": "A clean modern flat illustration of a single clear arrow flying straight to the center of a target bullseye, surrounded by faint scattered tangled lines that miss. Minimalist workspace background, soft depth of field. Warm orange (#ff6a00) accent on the arrow and bullseye center, professional, high detail, cinematic soft lighting. NO text, NO letters, NO words, NO UI mockups with writing.",
+    "caption": "เคยพิมพ์สั้นๆ แล้วได้คำตอบกว้างจนใช้ไม่ได้ไหมครับ? 🎯\n\nเทคนิคพื้นฐานที่ได้ผลที่สุดคือ \"บอกให้ชัดและละเอียด\" Claude ทำตามคำสั่งที่ตรงและเจาะจงได้ดีมาก\n\nลองเทียบดูนะครับ\n❌ \"ช่วยเขียนแคปชั่นขายของหน่อย\"\n✅ ก๊อปไปใช้ได้เลย:\n\"ช่วยเขียนแคปชั่น Facebook ขายกาแฟดริปคั่วกลาง 3 แบบ ความยาวแบบละ 2-3 บรรทัด กลุ่มเป้าหมายคือคนทำงานออฟฟิศอายุ 25-35 น้ำเสียงเป็นกันเอง ลงท้ายด้วยคำชวนสั่งซื้อ ใส่อิโมจิ 1-2 ตัวต่อแบบ\"\n\nยิ่งบอกครบ (ใคร/ทำอะไร/ยาวแค่ไหน/น้ำเสียง) ยิ่งตรงใจตั้งแต่ครั้งแรก ไม่ต้องแก้ซ้ำ\n\nบันทึกโพสต์นี้ไว้ใช้ แล้วกดติดตามเพจ โกสินทร์ต้องบินได้ ด้วยนะครับ\n\n#Claude #AI #พรอมต์ #เทคนิคAI #ทำงานเร็วขึ้น\n📌 อ้างอิง: Anthropic — Prompting best practices (be clear and direct)"
+  },
+  {
+    "id": "c02p01",
+    "category": "ฟีเจอร์ Claude",
+    "image_headline_th": "รวมไฟล์งานไว้ที่เดียวด้วย Projects",
+    "image_prompt": "Clean modern flat illustration of a single glowing folder hub on a desk, with neat document cards, a PDF, and a style-guide notebook flowing into it like organized streams of light. Warm orange (#ff6a00) accent glow, soft navy background, professional, high detail, cinematic soft lighting, depth of field. NO text, NO letters, NO words anywhere in the image.",
+    "caption": "เคยไหม… ต้องก็อปวางข้อมูลบริษัทซ้ำๆ ทุกครั้งที่เปิดแชทใหม่? 😩\n\nฟีเจอร์ \"Projects\" ช่วยได้ครับ มันคือพื้นที่ที่รวม context + ไฟล์ของงานหนึ่งไว้ที่เดียว ทุกแชทในนั้นจะจำข้อมูลให้อัตโนมัติ\n\nวิธีใช้:\n1) ที่ claude.ai กดเมนู Projects แล้วสร้าง Project ใหม่\n2) อัปโหลดไฟล์ที่ใช้บ่อย เช่น โบรชัวร์ คู่มือ สไตล์การเขียน (Project knowledge)\n3) ใส่ Custom instructions บอกบทบาท เช่น \"ตอบแบบสุภาพ ใช้คำว่าครับ\"\n4) เปิดแชทใหม่ในนั้น แล้วสั่งงานได้เลย ไม่ต้องแปะข้อมูลซ้ำ\n\nสรุป: ตั้งครั้งเดียว ใช้ยาว งานไม่หลงทางอีกต่อไปครับ\n\nกดติดตามเพจ โกสินทร์ต้องบินได้ ไว้เลยนะครับ\n\n#Claude #AI #ClaudeProjects #AIทำงานจริง #เพิ่มผลิตภาพ #โกสินทร์ต้องบินได้\n📌 อ้างอิง: เอกสารฟีเจอร์ Projects จาก Anthropic / Claude Help Center (2026)"
+  },
+  {
+    "id": "c03p01",
+    "category": "การตลาด/คอนเทนต์",
+    "image_headline_th": "วางปฏิทินคอนเทนต์ทั้งเดือน",
+    "image_prompt": "Top-down flat lay of a clean monthly wall planner grid made of blank paper cards arranged in calendar rows on a warm desk, soft daylight, a coffee cup and pen beside it, warm orange (#ff6a00) accent on the card edges and a paperclip, modern professional minimal aesthetic, shallow depth of field, high detail photography, absolutely no text no letters no words no numbers anywhere in the image",
+    "caption": "เปิดเดือนใหม่ทีไร นั่งคิดว่าจะโพสต์อะไรดีจนปวดหัวใช่ไหมครับ\n\nลองให้ Claude ช่วยวางปฏิทินคอนเทนต์ทั้งเดือนให้ในรอบเดียว แล้วเราค่อยเลือกปรับ จะเร็วขึ้นมากครับ\n\nวิธีทำ\n1. บอกธุรกิจ กลุ่มลูกค้า และแพลตฟอร์มที่ใช้\n2. กำหนดจำนวนโพสต์ต่อสัปดาห์ และสัดส่วน (ขายของ/ให้ความรู้/สร้างความสนิท)\n3. ให้ Claude ทำเป็นตารางวันต่อวัน พร้อมหัวข้อและรูปแบบโพสต์\n4. คัดอันที่ชอบ แล้วสั่งให้เขียนแคปชั่นเต็มทีละโพสต์\n\nลองพรอมต์นี้ก๊อปไปวางได้เลย\n\"ช่วยวางปฏิทินคอนเทนต์ Facebook 1 เดือน (โพสต์ 4 วันต่อสัปดาห์) ให้ร้าน [ขายกาแฟดริปออนไลน์] กลุ่มลูกค้าคือ [คนทำงานออฟฟิศ 25-40 ปี] สัดส่วน 50% ให้ความรู้ 30% สร้างความสนิท 20% ขายของ ทำเป็นตาราง: วันที่ / หัวข้อ / รูปแบบโพสต์ (รูป/รีล/คารูเซล) / ประโยคเปิด\"\n\nได้โครงทั้งเดือนมาแล้ว เราแค่เติมและโพสต์ ไม่ต้องเริ่มจากศูนย์ทุกวันครับ\n\nบันทึกโพสต์นี้ไว้ใช้ต้นเดือนหน้านะครับ แล้วคอมเมนต์บอกหน่อยว่าทำคอนเทนต์สายไหนอยู่ จะได้แนะนำพรอมต์ให้ตรงขึ้น\n\n#Claude #AI #คอนเทนต์ #การตลาดออนไลน์ #ปฏิทินคอนเทนต์ #SME\n📌 เริ่มจากโครงทั้งเดือน แล้วค่อยเติมรายวัน เหนื่อยน้อยลงเยอะครับ"
+  }
+]
